@@ -3,7 +3,7 @@
     "version"       : "0.1.6",
     "description"   : "A set of Node-RED nodes to interface to the GPIO pins of a Beaglebone Black board",
     "dependencies"  : {
-        "octalbonescript":"https://github.com/rcn-ee/octalbonescript/tarball/nodejs_v0.12.x"
+        "octalbonescript":"https://github.com/rcn-ee/octalbonescript/tarball/bbgw"
     },
     "repository" : {
         "type":"git",
